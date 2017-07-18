@@ -4,7 +4,7 @@ This is the Syllabus for Siraj Raval's new course "The Math of Intelligence"
 Each week has a short video (released on Friday) and an associated longer video (released on Wednesday). So each weeks short video is in bold and the longer video is underneath.
 
 ## Week 1 - First order optimization - derivative, partial derivative, convexity
- SVM Classification with gradient descent
+ SVM Classification with gradient descent   DONE
 ## Week 2 - Second order optimization - Jacobian, hessian, laplacian
  Newtons method for logistic regression
 ## Week 3 - Vectors - Vector spaces, vector norms, matrices
