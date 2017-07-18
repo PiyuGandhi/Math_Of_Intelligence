@@ -190,19 +190,3 @@ if __name__ == "__main__":
 	ax.quiver(X,Y,U,V, scale= 1, color= 'blue')
 	plt.title("Final line after training (Black points are Testing)")
 	plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
